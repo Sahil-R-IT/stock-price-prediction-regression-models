@@ -46,4 +46,4 @@ This project compares four regression models — **Linear, Lasso, Ridge, and Ela
 ## Author
 # Sahil Rabadiya
 Data Analyst | Passionate about Finance & Machine Learning
-srabadi1@asu.edu |  Linkedin
+srabadi1@asu.edu |  [Linkedin](https://www.linkedin.com/in/sahil-rabadi/)
