@@ -1,7 +1,6 @@
-Stock Price Prediction using Regression Models
+# Stock Price Prediction using Regression Models
 
 This project compares four regression models — **Linear, Lasso, Ridge, and ElasticNet** — to predict Apple (AAPL) stock prices using historical market data from Yahoo Finance.
-
 
 
 # Project Overview
